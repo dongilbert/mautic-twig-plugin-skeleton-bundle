@@ -1,0 +1,7 @@
+{
+  "name": "dongilbert/my-twig-extension-bundle",
+  "type": "mautic-plugin",
+  "require": {
+    "mautic/composer-plugin": "^1.0"
+  }
+}

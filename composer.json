@@ -1,5 +1,5 @@
 {
-  "name": "dongilbert/my-twig-extension-bundle",
+  "name": "dongilbert/mautic-twig-plugin-skeleton-bundle",
   "type": "mautic-plugin",
   "require": {
     "mautic/composer-plugin": "^1.0"

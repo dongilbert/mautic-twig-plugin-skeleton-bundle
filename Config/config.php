@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'name'        => 'My Twig Extension',
-    'description' => 'Enables my custom twig extension in Mautic',
+    'name'        => 'Mautic Twig Plugin Skeleton',
+    'description' => 'Skeleton bundle to use as a reference when writing your own Twig plugin for Mautic.',
     'version'     => '1.0',
     'author'      => 'Don Gilbert',
     'services' => [
@@ -12,7 +12,7 @@ return [
         'other' => [
             // Twig
             'templating.twig.extension.my_extension' => [
-                'class'     => \MauticPlugin\MyTwigExtensionBundle\Twig\Extension\MyExtension::class,
+                'class'     => \MauticPlugin\MauticTwigExtensionBundle\Twig\Extension\MyExtension::class,
                 'arguments' => [
                     // whatever arguments
                 ],

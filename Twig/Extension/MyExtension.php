@@ -1,6 +1,6 @@
 <?php
 
-namespace MauticPlugin\MyTwigExtensionBundle\Twig\Extension;
+namespace MauticPlugin\MauticTwigExtensionBundle\Twig\Extension;
 
 use Twig_Extension;
 use Twig_SimpleFilter;
